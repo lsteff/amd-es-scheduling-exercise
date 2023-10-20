@@ -1,0 +1,3 @@
+# ES Scheduling Exercise
+
+Dieses Repo sammelt ein paar Experimente, mit denen wir versuchen wollen, Jupyter-Notebooks in die Lehre für Eingebettete Systeme zu integrieren. Der Plan ist aktuell, die Scheduling-Algorithmen der Übung 9 von den Studis implementieren zu lassen, wobei wir ihnen ein geeignetes Interface zur Verfügung stellen wollen, damit das im Rahmen einer einzigen Übungsaufgabe zu schaffen ist. 
